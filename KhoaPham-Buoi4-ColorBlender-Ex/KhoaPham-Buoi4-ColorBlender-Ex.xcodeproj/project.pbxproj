@@ -1,0 +1,295 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4A38B15F1BCD46EB00B3DE73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A38B15E1BCD46EB00B3DE73 /* AppDelegate.swift */; };
+		4A38B1611BCD46EB00B3DE73 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A38B1601BCD46EB00B3DE73 /* ViewController.swift */; };
+		4A38B1641BCD46EB00B3DE73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A38B1621BCD46EB00B3DE73 /* Main.storyboard */; };
+		4A38B1661BCD46EB00B3DE73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A38B1651BCD46EB00B3DE73 /* Assets.xcassets */; };
+		4A38B1691BCD46EB00B3DE73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A38B1671BCD46EB00B3DE73 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4A38B15B1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A38B15E1BCD46EB00B3DE73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4A38B1601BCD46EB00B3DE73 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4A38B1631BCD46EB00B3DE73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4A38B1651BCD46EB00B3DE73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4A38B1681BCD46EB00B3DE73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4A38B16A1BCD46EB00B3DE73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4A38B1581BCD46EB00B3DE73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4A38B1521BCD46EB00B3DE73 = {
+			isa = PBXGroup;
+			children = (
+				4A38B15D1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex */,
+				4A38B15C1BCD46EB00B3DE73 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4A38B15C1BCD46EB00B3DE73 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4A38B15B1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4A38B15D1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex */ = {
+			isa = PBXGroup;
+			children = (
+				4A38B15E1BCD46EB00B3DE73 /* AppDelegate.swift */,
+				4A38B1601BCD46EB00B3DE73 /* ViewController.swift */,
+				4A38B1621BCD46EB00B3DE73 /* Main.storyboard */,
+				4A38B1651BCD46EB00B3DE73 /* Assets.xcassets */,
+				4A38B1671BCD46EB00B3DE73 /* LaunchScreen.storyboard */,
+				4A38B16A1BCD46EB00B3DE73 /* Info.plist */,
+			);
+			name = "KhoaPham-Buoi4-ColorBlender-Ex";
+			path = "khoapham-buoi4-excercise";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4A38B15A1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4A38B16D1BCD46EB00B3DE73 /* Build configuration list for PBXNativeTarget "KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename" */;
+			buildPhases = (
+				4A38B1571BCD46EB00B3DE73 /* Sources */,
+				4A38B1581BCD46EB00B3DE73 /* Frameworks */,
+				4A38B1591BCD46EB00B3DE73 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename";
+			productName = "khoapham-buoi4-excercise";
+			productReference = 4A38B15B1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4A38B1531BCD46EB00B3DE73 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = HuyHuynh;
+				TargetAttributes = {
+					4A38B15A1BCD46EB00B3DE73 = {
+						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = AL27CJ8536;
+					};
+				};
+			};
+			buildConfigurationList = 4A38B1561BCD46EB00B3DE73 /* Build configuration list for PBXProject "KhoaPham-Buoi4-ColorBlender-Ex" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4A38B1521BCD46EB00B3DE73;
+			productRefGroup = 4A38B15C1BCD46EB00B3DE73 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4A38B15A1BCD46EB00B3DE73 /* KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4A38B1591BCD46EB00B3DE73 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4A38B1691BCD46EB00B3DE73 /* LaunchScreen.storyboard in Resources */,
+				4A38B1661BCD46EB00B3DE73 /* Assets.xcassets in Resources */,
+				4A38B1641BCD46EB00B3DE73 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4A38B1571BCD46EB00B3DE73 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4A38B1611BCD46EB00B3DE73 /* ViewController.swift in Sources */,
+				4A38B15F1BCD46EB00B3DE73 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4A38B1621BCD46EB00B3DE73 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4A38B1631BCD46EB00B3DE73 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4A38B1671BCD46EB00B3DE73 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4A38B1681BCD46EB00B3DE73 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4A38B16B1BCD46EB00B3DE73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4A38B16C1BCD46EB00B3DE73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4A38B16E1BCD46EB00B3DE73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "khoapham-buoi4-excercise/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.huyhuynh.khoapham-buoi4-excercise";
+				PRODUCT_NAME = "KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename";
+			};
+			name = Debug;
+		};
+		4A38B16F1BCD46EB00B3DE73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "khoapham-buoi4-excercise/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.huyhuynh.khoapham-buoi4-excercise";
+				PRODUCT_NAME = "KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4A38B1561BCD46EB00B3DE73 /* Build configuration list for PBXProject "KhoaPham-Buoi4-ColorBlender-Ex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4A38B16B1BCD46EB00B3DE73 /* Debug */,
+				4A38B16C1BCD46EB00B3DE73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4A38B16D1BCD46EB00B3DE73 /* Build configuration list for PBXNativeTarget "KhoaPham-Buoi4-ColorBlender-Ex.temp_caseinsensitive_rename" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4A38B16E1BCD46EB00B3DE73 /* Debug */,
+				4A38B16F1BCD46EB00B3DE73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4A38B1531BCD46EB00B3DE73 /* Project object */;
+}
